@@ -8,7 +8,7 @@ export default function Header() {
       <Navigation />
 
       <div className="header-content mt-5">
-        <h1 className="header-content__title">Find perfect rides that fits </h1>
+        <h1 className="header-content__title">Find perfect rides that fits your style and comfort!!! </h1>
         <p className="header-content__desc">
           The best offers for you at any point of your journey.
           Classy rides that meets your taste.
